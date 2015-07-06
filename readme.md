@@ -13,5 +13,5 @@ Now you can truncate your tweets:
 
     $ node app.js
 
-FYI: During the process, it could be reached API limitation. When it is happened,
+FYI: During the process, it could be reached API limitation. When it happens,
 wait for a while and then run again. There is no code for this occasion.
